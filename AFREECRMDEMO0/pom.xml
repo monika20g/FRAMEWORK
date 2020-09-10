@@ -92,9 +92,8 @@
 
 <suiteXmlFiles>
 <!-- your comment here -->
- <suiteXmlFile>XMLFiles/testng.xml</suiteXmlFile> 
-
-<!-- <suiteXmlFile>XMLFiles/${xmlFiles}</suiteXmlFile> -->
+<!-- <suiteXmlFile>XMLFiles/testng.xml</suiteXmlFile> -->
+ <suiteXmlFile>XMLFiles/${xmlFiles}</suiteXmlFile> 
 </suiteXmlFiles>
 
 <testFailureIgnore>true</testFailureIgnore>
